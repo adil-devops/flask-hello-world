@@ -13,11 +13,11 @@ Follow the guide at https://render.com/docs/deploy-flask.
 Build the image using the following command
 
 ```bash
-$ docker build -t simple-flask-app:latest .
+$ docker build -t flask/hello-world .
 ```
 
 Run the Docker container using the command shown below.
 
 ```bash
-$ docker run -d -p 5000:5000 simple-flask-app
+$ docker run -d -p 8003:8003 flask/hello-world
 ```
