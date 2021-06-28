@@ -8,7 +8,7 @@ The app in this repo is deployed at [https://flask.onrender.com](https://flask.o
 
 Follow the guide at https://render.com/docs/deploy-flask.
 
-# Simple Python Flask Dockerized Application#
+# Python Flask Dockerized Application#
 
 Build the image using the following command
 
